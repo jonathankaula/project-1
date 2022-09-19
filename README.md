@@ -1,4 +1,4 @@
 # project-1
- School Project <br/>
+ Simple Parser <br/>
  example input:  [10 ]={[2...5 ]=50 }
  
